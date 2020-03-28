@@ -4,7 +4,7 @@
 The purpose of this application is for users to view, create and track workouts to help them reach their fitness goals.
 
 ## Link to Application:
-[workout-tracker](https://fitness-workout-track.herokuapp.com/)
+[Workout-Tracker](https://fitness-workout-track.herokuapp.com/)
 
 ## Screenshot of Application:
 ![screenshot](/public/screenshot2.png)
